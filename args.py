@@ -14,7 +14,7 @@ restore_path = './data/darknet_weights/yolov3.ckpt'
 save_dir = './checkpoint_kdxf/'  # The directory of the weights to save.
 log_dir = './data/logs/'  # The directory to store the tensorboard log files.
 progress_log_path = './data/progress_kdxf.log'  # The path to record the training progress.
-anchor_path = './data/yolo_anchors.txt'  # The path of the anchor txt file.
+anchor_path = './data/kdxf_anchors.txt'  # The path of the anchor txt file.
 class_name_path = './data/kdxf.names'  # The path of the class names.
 
 ### Training releated numbers
